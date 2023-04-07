@@ -1,7 +1,11 @@
 # README
 ## Setup
 
-see this [docs](https://ryonakagami.github.io/2023/03/09/wolfram-engine-setup/)
+Wolfram言語の実行環境は主にMathematicaとJupyterの2つがありますが, 
+無料で実行環境構築ができるJupyterベースでSteupを行うことをここでは想定しています.
+
+詳しくは, see this [docs](https://ryonakagami.github.io/2023/03/09/wolfram-engine-setup/)
+
 
 ## How to Use it
 
