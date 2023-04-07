@@ -13,6 +13,14 @@ see this [docs](https://ryonakagami.github.io/2023/03/09/wolfram-engine-setup/)
 2. `select Jupyter Kernel`をクリック
 3. Woflfram Kernelを選択
 
+## Troubleshooting
+### kernel errorが出る
+
+```zsh
+% ps aux | grep "Wolfram" | awk {'print $2'} |xargs kill -9 
+```
+
+
 
 ## References
 
